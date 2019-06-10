@@ -3,6 +3,12 @@
 ################################################################################
 
 /.vs
-/AppendVersionMultipleRoots/.vs/
+/AppendVersionMultipleRoots/.vs
 /AppendVersionMultipleRoots/StaticFilesAppendVersion/bin
 /AppendVersionMultipleRoots/StaticFilesAppendVersion/obj
+/WpfAspNetCoreReference/.vs
+/WpfAspNetCoreReference/packages
+/WpfAspNetCoreReference/WebApplication1/bin
+/WpfAspNetCoreReference/WebApplication1/obj
+/WpfAspNetCoreReference/WpfApp1/bin
+/WpfAspNetCoreReference/WpfApp1/obj
