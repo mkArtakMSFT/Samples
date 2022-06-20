@@ -1,6 +1,6 @@
 name: Package Deprecation Feedback
 description: Let us know if you believe a package has been deprecated by mistake.
-title: "[.NET Package Deprecation Feedback]: "
+title: "[PackageId]: [version(s)]"
 labels: [package-deprecation]
 body:
   - type: markdown
